@@ -1,0 +1,33 @@
+{
+  "originHash" : "f84ebfc462c38e08f34b2089c50e97e3f8db81e6d75ebe067a93eb5550dd262a",
+  "pins" : [
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "b842598f1295f3ffa1475b1580672d1fe5b83580",
+        "version" : "4.5.0"
+      }
+    },
+    {
+      "identity" : "pure-swift-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CodeSlicing/pure-swift-ui.git",
+      "state" : {
+        "revision" : "f3cf6c8e49b19ce5076d06ad0ace841ef8f78092",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "pure-swift-ui-design",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CodeSlicing/pure-swift-ui-design.git",
+      "state" : {
+        "revision" : "40489273ee4703032c7d4d185ac25743f604e158",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
