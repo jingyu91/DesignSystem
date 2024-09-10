@@ -14,7 +14,7 @@ import PackageDescription
 
 
 let package = Package(
-    name: "PackageName",
+    name: "qommand_design_system_ios",
     dependencies: [
         .package(url: "https://github.com/airbnb/swift", from: "1.0.0"),
         .package(url: "https://github.com/airbnb/lottie-spm.git", from: "4.4.3"),
